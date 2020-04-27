@@ -13,3 +13,6 @@ Consideraciones:
 3. Elaborar una solución que lea una cantidad de horas e imprima su equivalente en minutos, segundos, días.
 
 4. Genere una solución que lea un número de pies y calcule e imprima su equivalente en yardas, pulgadas, centímetros y metros. De acuerdo con las siguientes equivalencias: 1pie=12pulgadas; 1 yarda=3pies; 1pulgada=2.54cm, 1metro=100cm.
+
+
+### Ejercicios tomados de: López Román, Leobardo. (2013) Metodología de la programación orientada a objetos. México
